@@ -1,0 +1,31 @@
+{
+    "subscription": {
+        "subscription_number": 1111111111
+    },
+    "epr": {
+        "commercial_register": 1234567890,
+        "tax_number": 111112222233333,
+        "name": "testwq",
+        "category": "Restaurant"
+    },
+    "customer": {
+        "phone_number": 966553604747
+    },
+    "invoice": {
+        "qr_code": 12345678900,
+        "created_at": "2024-04-05",
+        "total_amount": 750.00
+    },
+    "invoice_items": [
+        {
+            "name": "Product Q",
+            "price": 120.00,
+            "quantity": 2
+        },
+        {
+            "name": "Product R",
+            "price": 222.00,
+            "quantity": 3
+        }
+    ]
+}
